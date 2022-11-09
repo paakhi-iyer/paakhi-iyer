@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paakhi-iyer
 - 👀 I’m interested in contributing to beginner friendly OSS projects.
-- 🌱 I’m currently learning DSA-JAVA and DevOps
+- 🌱 I’m currently learning DSA-JAVA and DevOps and planning to explore front-end as I move forward.
 - ✨ I’m looking to collaborate on DevOps based projects.
 - 📫 Twitter : paakhi_iyer, e-mail : iyerpaakhi@gmail.com
 
