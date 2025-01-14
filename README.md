@@ -31,4 +31,9 @@ As an enthusiastic and quick learner, I love solving complex problems, exploring
 
 ### 📫 Reach Me  
 - LinkedIn: [https://www.linkedin.com/in/paakhi-iyer-6067921a9/](#)  
-- Email: [iyerpaakhi@gmail.com](mailto:your-email@example.com)  
+- Email: [iyerpaakhi@gmail.com](mailto:your-email@example.com)
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paakhi-iyer&show_icons=true&locale=en&layout=compact" alt="paakhi" />
+</p>
